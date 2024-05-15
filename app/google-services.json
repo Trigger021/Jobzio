@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667437990853",
+    "project_id": "jobzio-48e66",
+    "storage_bucket": "jobzio-48e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667437990853:android:5d59fb0baef29d714fc1ac",
+        "android_client_info": {
+          "package_name": "com.example.jobzio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjF3v5u65yKQ-Prj5lAet3NICc5xWDDwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
